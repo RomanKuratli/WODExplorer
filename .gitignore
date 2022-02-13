@@ -2,3 +2,7 @@
 /.gradle/
 /build/
 /src/main/resources
+.idea/WODExplorer.iml
+.idea/modules.xml
+.idea/codeStyles/Project.xml
+.idea/codeStyles/codeStyleConfig.xml
